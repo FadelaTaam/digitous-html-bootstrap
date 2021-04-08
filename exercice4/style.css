@@ -1,0 +1,15 @@
+.container-fluid {
+    background-color: #6c757d!important;
+}
+.navbar-brand {
+    color: white;
+}
+img { 
+    border-radius: 50%;
+    width: 150px;
+}
+img { display: flex;
+    justify-content: left;
+    
+}
+

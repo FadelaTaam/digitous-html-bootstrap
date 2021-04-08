@@ -1,0 +1,14 @@
+.row .box {
+    background-color: yellow;
+    padding: 20px;
+    
+}
+.box-bleu {
+    background-color: blue;
+    padding: 20px;
+    
+}
+.box-red {
+    background-color: red;
+    padding: 20px;
+}
