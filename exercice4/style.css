@@ -12,4 +12,9 @@ img { display: flex;
     justify-content: left;
     
 }
+.row-shady { display: flex;
+    justify-content: space-between;
+   
+
+}
 
